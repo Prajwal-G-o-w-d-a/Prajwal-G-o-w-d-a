@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ai tools<br>👯 I’m looking to collaborate on US based company to freelance<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Generative Ai<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on AI tools developer focused on Generative AI, cloud platforms, and scalable solutions<br>👯 I’m looking to collaborate with Generative AI engineer building intelligent tools and cloud-ready solutions for real-world problems<br>🤝 I’m looking for help with building impactful Generative AI tools on cloud platforms.<br>🌱 I’m currently Software engineer specializing in Generative AI, cloud computing, and modern web technologies.i<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
